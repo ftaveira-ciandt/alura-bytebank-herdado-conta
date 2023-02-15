@@ -1,4 +1,6 @@
-    public class Cliente {
+package alura.com.bytebank.main;
+
+public class Cliente {
 
         private String nome;
         private String cpf;
