@@ -1,3 +1,5 @@
+package alura.com.bytebank;
+
 public class Conta {
 
     private double saldo;
