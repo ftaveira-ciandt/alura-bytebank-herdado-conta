@@ -1,4 +1,6 @@
-package alura.com.bytebank;
+package alura.com.bytebank.main;
+
+import alura.com.bytebank.main.Conta;
 
 public class ContaPoupanca extends Conta {
 

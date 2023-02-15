@@ -1,4 +1,4 @@
-package alura.com.bytebank;
+package alura.com.bytebank.main;
 
 public class Cliente {
 
